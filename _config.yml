@@ -1,2 +1,2 @@
-plugins:
-  - jekyll-relative-links
+include:
+  - README.md
