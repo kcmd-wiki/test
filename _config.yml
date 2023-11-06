@@ -1,1 +1,4 @@
 baseurl: /test
+
+plugins:
+  - jekyll-avatar
